@@ -16,10 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489589ee-6660-4f61-a4b1-110162fa4701" name="Default Changelist" comment="updated interests and icon">
+    <list default="true" id="489589ee-6660-4f61-a4b1-110162fa4701" name="Default Changelist" comment="hyperlinked workday">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -31,7 +38,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/rkennedy1/Resume-Website" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ipQIq3mPGLPvhJwziJUlCcnOsv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +59,6 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="C:\Users\Ryan\Code\startbootstrap-resume-gh-pages\assets\img" />
     </key>
   </component>
@@ -58,23 +72,7 @@
       <updated>1602601976791</updated>
       <workItem from="1602601977815" duration="3454000" />
       <workItem from="1602606962144" duration="168000" />
-      <workItem from="1602615026529" duration="1970000" />
     </task>
-    <task id="LOCAL-00001" summary="updated interests and icon">
-      <created>1602617123755</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1602617123755</updated>
-    </task>
-    <task id="LOCAL-00002" summary="updated interests and icon">
-      <created>1602617163399</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1602617163399</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,28 +83,41 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated interests and icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated interests and icon" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602616800475">
+    <state x="179" y="115" key="MergeDialog" timestamp="1602620250903">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
-    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1602616800475" />
+    <state x="179" y="115" key="MergeDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1602620250903" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1602605063865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.157.1920.1040@0.0.2560.1400" timestamp="1602605063865" />
-    <state x="496" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602617173766">
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602620646817">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
-    <state x="496" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1602617173766" />
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1602620646817" />
+    <state x="605" y="388" key="git4idea.ui.GitTagDialog" timestamp="1602620303121">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="605" y="388" key="git4idea.ui.GitTagDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1602620303121" />
   </component>
 </project>
