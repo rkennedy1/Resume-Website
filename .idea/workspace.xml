@@ -26,8 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489589ee-6660-4f61-a4b1-110162fa4701" name="Default Changelist" comment="hyperlinked workday">
+    <list default="true" id="489589ee-6660-4f61-a4b1-110162fa4701" name="Default Changelist" comment="changed address">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/RK-icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/RK-icon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="C:\Users\Ryan\Code\startbootstrap-resume-gh-pages\assets\img" />
     </key>
   </component>
@@ -72,7 +74,18 @@
       <updated>1602601976791</updated>
       <workItem from="1602601977815" duration="3454000" />
       <workItem from="1602606962144" duration="168000" />
+      <workItem from="1602620717609" duration="267000" />
+      <workItem from="1602649863296" duration="1167000" />
+      <workItem from="1605815455431" duration="71000" />
     </task>
+    <task id="LOCAL-00001" summary="changed address">
+      <created>1602620741635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602620741635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +115,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed address" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed address" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602650399161">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1602650399161" />
     <state x="179" y="115" key="MergeDialog" timestamp="1602620250903">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
@@ -111,10 +132,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.157.1920.1040@0.0.2560.1400" timestamp="1602605063865" />
-    <state x="496" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602620646817">
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602620759657">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
-    <state x="496" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1602620646817" />
+    <state x="496" y="277" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1602620759657" />
     <state x="605" y="388" key="git4idea.ui.GitTagDialog" timestamp="1602620303121">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
